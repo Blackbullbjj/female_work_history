@@ -56,6 +56,11 @@ __Description of Analysis__
 3. **Creating Line Graphs:** Box plots of the distribution of the time difference are created, both with and without outliers
 
 
+##  Results
+
+![alt text](images/combined.png)
+
+![alt text](<images/big picture.png>)
 
 
 
@@ -63,22 +68,16 @@ __Description of Analysis__
 
 
 
-
-
-Components of a Successful README
-Overview of project
-Project proposal or research question
-Describe source of data
-Describe how you cleaned and transformed data
-Others should be able to replicate your results
 Contextual visualization(s)
 What visualizations do we need to understand your topic?
 Show objective specific visualization(s)
 What visualizations display your results
+
+
 Present key insights
 Tell us what (if anything) you recommend
 Tell us what future areas you might want/need to study
-How to contribute to the project (optional)
+
 Primary Differences From Presentation structure
 More emphasis on your data and the choices you made to change or adapt it.
 More contextual information that was cut from your presentation for time.
